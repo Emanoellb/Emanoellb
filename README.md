@@ -17,7 +17,7 @@
 
 ## No momento estou estudando: 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </div>
 <hr>
 <p>“É melhor você tentar fazer algo, vê-lo não funcionar, e aprender com isso, do que não fazer nada”</p>
