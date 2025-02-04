@@ -17,8 +17,7 @@
 
 ## No momento estou estudando: 
 <div>
-  <img  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </div>
 <hr>
 <p>“É melhor você tentar fazer algo, vê-lo não funcionar, e aprender com isso, do que não fazer nada”</p>
