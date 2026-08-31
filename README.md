@@ -1,24 +1,73 @@
-# Olá! Muito prazer, eu sou Emanoel Lima. 
-#### Comecei os estudos na área de tecnologia em geral no final do ano de 2023 e após passar um tempo estudando, escolhi o curso de Análise e Desenvolvimento de Sistemas. Consegui a aprovação no ENEM e cursando o curso desde março do ano de 2024. Gosto muito da área visual, em todos os sentidos, porém a que mais me encanta é o FrontEnd. Também gosto bastante da área de banco de dados.  
-<div>
-  <a href="https://www.instagram.com/emanoellb_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  <a href="https://www.linkedin.com/in/emanoel-l-5869482a3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</div>
+# Hi 👋, I'm Emanoel Lima 
 
-## Tecnologias Conhecidas:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Manel-JS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Manel-HTML" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt= "Manel-Css" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="Manel-Phyton" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Manel-MySql" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Manel-Git" heigth="30" width="40" src="https://devicon-website.vercel.app/api/git/original.svg">
-</div>
+**Software Developer | Flutter • Next.js • | UI/UX • APIs & Integrações**  
+🇧🇷
 
-## No momento estou estudando: 
-<div>
-  <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-</div>
-<hr>
-<p>“É melhor você tentar fazer algo, vê-lo não funcionar, e aprender com isso, do que não fazer nada”</p>
-<p align="end">Mark Zuckerberg</p>
+Building solutions with a focus on **architecture**, **user experience**, and **code quality**.
+
+---
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/Emanoellb">
+    <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.instagram.com/emanoellb">
+    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/emanoellb/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 🧠 What I do
+
+-   📱 Mobile & web development
+-   🎨 UI/UX implementation & design systems
+-   🧩 Clean architecture & system design
+-   🔌 APIs & system integrations
+-   🔐 Authentication & application security
+-   🗄️ Databases & data management
+-   🧪 Code quality, debugging & testing
+-   📄 Reports & document generation
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+
+### Backend
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=emanoellb&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoellb&layout=compact&theme=tokyonight" />
+</p>
+
+---
