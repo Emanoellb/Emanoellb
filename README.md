@@ -13,7 +13,7 @@ Building solutions with a focus on **architecture**, **user experience**, and **
   <a href="https://github.com/Emanoellb">
     <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.instagram.com/emanoellb">
+  <a href="https://www.instagram.com/emanoellb_/">
     <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/emanoellb/">
