@@ -62,12 +62,3 @@ Building solutions with a focus on **architecture**, **user experience**, and **
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=emanoellb&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoellb&layout=compact&theme=tokyonight" />
-</p>
-
----
