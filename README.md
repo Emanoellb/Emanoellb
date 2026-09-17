@@ -1,6 +1,6 @@
 # Hi 👋, I'm Emanoel Lima 
 
-**Software Developer | Flutter • Next.js • | UI/UX • APIs & Integrações**  
+**Software Developer | Flutter • Next.js • | UI/UX**  
 🇧🇷
 
 Building solutions with a focus on **architecture**, **user experience**, and **code quality**.
