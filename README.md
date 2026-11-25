@@ -1,6 +1,6 @@
 # Hi 👋, I'm Emanoel Lima 
 
-**Software Developer | Flutter • Next.js • | UI/UX**  
+**Mobile & Web Developer | Flutter • Next.js • TypeScript | UI/UX**  
 🇧🇷
 
 Building solutions with a focus on **architecture**, **user experience**, and **code quality**.
@@ -48,6 +48,8 @@ Building solutions with a focus on **architecture**, **user experience**, and **
 
 ### Backend
 
+![Firebase](https://img.shields.io/badge/Firebase-FFC400?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-F8F9FA?style=for-the-badge&logo=Supabase)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -59,6 +61,6 @@ Building solutions with a focus on **architecture**, **user experience**, and **
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Figma](https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma)
 
 ---
